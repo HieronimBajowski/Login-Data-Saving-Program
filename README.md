@@ -9,7 +9,7 @@ Just type your data in program.
 
 ![obraz](https://user-images.githubusercontent.com/106467648/220153770-470732c6-52b2-45ba-9093-543550000a0c.png)
 
-#Reading Data From File
+# Reading Data From File
 
 Type any data from saving web/app name, login or password and program will find your data.
 
