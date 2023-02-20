@@ -1,7 +1,10 @@
 # Login Data Saving Program
 Program for saving passwords and logins in file on your computer.
-#Technologies
+
+# Technologies
+
 Python
+
 # Saving Data To File
 ![obraz](https://user-images.githubusercontent.com/106467648/220153506-e1a165b1-61a7-4123-96bf-e7873b8e8f67.png)
 
