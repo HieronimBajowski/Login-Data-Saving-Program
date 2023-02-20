@@ -71,7 +71,7 @@ class PasswordManager(QWidget):
 
 
 
-    def closeEvent(self, event: QCloseEvent):
+    def close_event(self, event: QCloseEvent):
         close = QMessageBox.question(self, "Close app", "Do you want to close",
                                              QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
         if close == QMessageBox.StandardButton.Yes:
