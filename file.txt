@@ -1,0 +1,2 @@
+facebook, user1, password1
+instagram, user2, password2
